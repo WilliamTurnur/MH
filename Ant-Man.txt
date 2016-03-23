@@ -130,6 +130,36 @@ Ability,18,Page,1
 Ability,18,Slot,8
 Ability,18,Movement
 
+
+[Uniques]
+lootrule,1200,contains,Future Foundation Tendrils
+lootrule,1200,dontstash
+lootrule,1201,contains,Classic Ant-Man Bodysuit
+lootrule,1201,dontstash
+lootrule,1202,contains,A Belt of the Yellow Jacket
+lootrule,1202,dontstash
+lootrule,1203,contains,Wings of the Wasp
+lootrule,1203,dontstash
+lootrule,1204,contains,Helmet of the Ant-Man
+lootrule,1204,dontstash
+
+[Crafting]
+craftrule,100,tabname,exchange
+craftrule,100,recipename,500k Credit Chest
+craftrule,100,ingredient,Future Foundation Tendrils,5
+craftrule,101,tabname,exchange
+craftrule,101,recipename,500k Credit Chest
+craftrule,101,ingredient,Classic Ant-Man Bodysuit,5
+craftrule,102,tabname,exchange
+craftrule,102,recipename,500k Credit Chest
+craftrule,102,ingredient,A Belt of the Yellow Jacket,5
+craftrule,103,tabname,exchange
+craftrule,103,recipename,500k Credit Chest
+craftrule,103,ingredient,Wings of the Wasp,5
+craftrule,104,tabname,exchange
+craftrule,104,recipename,500k Credit Chest
+craftrule,104,ingredient,Helmet of the Ant-Man,5
+
 END
 
 [Build: http://marvelheroes.info/build/24062/]
